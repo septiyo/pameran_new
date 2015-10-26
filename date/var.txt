@@ -1,0 +1,32 @@
+var
+
+$trader= $_POST[TRADER];
+$owndistribution = $_POST[OWNDISTRIBUTO];
+$middleman = $_POST[MIDDLEMAN];
+$haveownbrand = $_POST[HAVEOWNBRAND];
+$haveownbrandket = $_POST[HAVEOWNBRANDKET]; 
+$importothercountry = $_POST[IMPORTOTHERCOUNTRY];
+$importothercountry = $_POST[IMPORTOTHERCOUNTRYKET];
+$indonesiabiscuit = $_POST[INDONESIABISCUIT];
+$indonesiabiscuitket = $_POST[ INDONESIABISCUITKET];
+$never = $_POST[NEVER];
+$otherbrief = $_POST[OTHERBRIEF];
+$packing1 = $_POST[PACKING1];
+$packing2 = $_POST[PACKING2];
+$packing3 = $_POST[PACKING3];
+$packing4 = $_POST[PACKING4];
+$packing5 = $_POST[PACKING5];
+$packing6 = $_POST[PACKING6];
+$biscuittype1 = $_POST[BISCUITTYPE1];
+$biscuittype2 = $_POST[BISCUITTYPE2];
+$biscuittype3 = $_POST[BISCUITTYPE3];
+$biscuittype4 = $_POST[BISCUITTYPE4];
+$biscuittype5 = $_POST[BISCUITTYPE5];
+$biscuittype6 = $_POST[BISCUITTYPE6];
+$revisitbooth_on = $_POST[REVISITBOOTH_ON];
+$colour = $_POST[COLOUR];
+$flavour = $_POST[FLAVOUR];
+$vegan = $_POST[VEGAN];
+$halal = $_POST[HALAL];
+$allergen = $_POST[ALLERGEN];
+$others = $_POST[OTHERS];
